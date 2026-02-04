@@ -50,4 +50,4 @@ function playGame(){
 }
 
 //function start the game
-playGame();
+playGame(); 

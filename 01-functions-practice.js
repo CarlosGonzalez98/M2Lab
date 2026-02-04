@@ -15,7 +15,7 @@ function squareNumber(number){
 squareNumber(3);
 
 //STEP 3
-function percentOf(number1, number2){
+function percentOf(number1, number2){ 
     const result = (number1 / number2) * 100;
     console.log(number1 + " is " + result + "% of " + number2);
     return result;
